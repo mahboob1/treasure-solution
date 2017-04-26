@@ -1,0 +1,5 @@
+Walk          - 3 mph
+Run           - 6 mph
+Horse trot    - 4 mph
+Horse gallop  - 15 mph
+Elephant ride - 6 mph

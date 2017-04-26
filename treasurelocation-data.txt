@@ -1,0 +1,329 @@
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
+Walk, 20 mins, N
+Run, 1 hour, E
+Horse trot, 3 hours, NW
+Elephant ride, 1 hour 30 mins, SE
+Horse gallop, 20 mins, SE
+Walk, 30 mins, SW
+Horse trot, 1 hour 1 min, W
